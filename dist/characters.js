@@ -10,4 +10,3 @@ export const characters = [
     new Squire('Bronn', '', 25, 50),
 ];
 // characters[0].ally = characters[1];
-console.log(characters);

@@ -12,5 +12,3 @@ export const characters = [
 ];
 
 // characters[0].ally = characters[1];
-
-console.log(characters);
