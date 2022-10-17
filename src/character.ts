@@ -1,6 +1,3 @@
-import { Fighter } from './fighter.js';
-import { King } from './king.js';
-
 export class Character {
   name: string;
   family: string;
